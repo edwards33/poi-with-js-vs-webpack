@@ -1,6 +1,6 @@
 ## Use POI to build JS file with RxJs
 
-  Install POI:
+  Install [POI](https://poi.js.org/):
 
 ```bash
 $ npm i -g poi
