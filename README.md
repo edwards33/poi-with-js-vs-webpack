@@ -1,4 +1,4 @@
-## Use POI to build JS file with RxJs
+## POI to build JS file with RxJs
 
   Install [POI](https://poi.js.org/):
 
